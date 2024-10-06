@@ -63,7 +63,7 @@ Você pode usar os dados gerados por este script para:
 
 ## Demonstrativo em Vídeo
 
-*Em breve*: Insira aqui o link do vídeo demonstrando a execução e a funcionalidade do projeto. Este vídeo será útil para quem deseja ver rapidamente como o script funciona e como utilizar os dados gerados.
+*Em breve*
 
 ## Licença
 
